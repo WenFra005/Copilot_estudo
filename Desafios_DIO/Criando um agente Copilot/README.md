@@ -1,0 +1,9 @@
+# Criando um agente Copilot
+
+Para criar um agente Copilot é necessário ter uma conta Microsoft 365 e acesso à internet. É possível ter acesso a uma conta de forma gratuita mas como avaliação gratuita.
+
+Em seguida acesse https://copilotstudio.microsoft.com/ e faça o login. Na página inicial estará agentes pré-configurados com temas como Suporte de TI e Agente de Viagens para aplicar em um cenário quando a empresa implementar um suporte ao cliente via Chat.
+
+Mas é possível criar um agente do zero clicando em na aba esquerda em **Agentes**, em seguida **Novo agente**. A página vai te redirecionar para um agente Copilot que pode criar um agente com as configurações necessárias para você com base em um prompt que você fornecer se quiser, mas se clicar em **Ignorar para configurar** você mesmo configura o agente. Deve fornecer o objetivo, o prompt e se quiser fornecer uma base de conhecimento podendo vir da internet ou uma base própria como um banco de dados ou um conjunto de arquivos.
+
+Depois de clicar em **Criar**, você conseguirá testar seu agente fazendo perguntas para ele e melhorando seu agente, configurando tópicos onde você configurará os caminhos de conversa onde você tem certeza que irá ocorrer. Por exemplo, um agente que oferece suporte de TI para um usuário com base em perguntas, pode ter um tópico onde ele pergunta o problema do usuário e redirecionar o usuário direto para uma solução que ele irá fornecer se for simples de resolver o problema ou redirecionar para um humano se for complexo. Isso vai depender do cenário onde vai ser aplicado e da experiência do usuário.
